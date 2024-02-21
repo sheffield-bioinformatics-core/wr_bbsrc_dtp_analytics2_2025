@@ -3,7 +3,7 @@
 ## Course Content
 
 
-This course offers an introduction to working with Linux. We will describe the Linux environment so that participants can start to utilize command-line tools and feel comfortable using a text-based way of interacting with a computer. We will also introduce the "Git" version control system, which is a very powerful tool to help us secure our code from data loss. We’ll cover the terminology, how you can use it for your own projects and then how you can use it to make collaboration on a project easy."
+This course offers an introduction to working with Linux. We will describe the Linux environment so that participants can start to utilize command-line tools and feel comfortable using a text-based way of interacting with a computer. We will also introduce the "Git" version control system, which is a very powerful tool to help us secure our code from data loss. We’ll cover the terminology, how you can use it for your own projects and then how you can use it to make collaboration on a project easy.
 
 ## Pre-requisites
 
@@ -29,7 +29,7 @@ After this course you should be able to:
 - 13:45 - 14:30 [Obtaining Sequencing data and quality assessment]()
 - 15:15 - end [Introduction to Version Control, and git]()
 
-## Amazon
+## Amazon details (for setup)
 
 - ami-0f9124f7452cdb2a6
 - User data
@@ -40,8 +40,8 @@ sudo apt-get update
 sudo apt-get install -y docker.io
 sudo service docker start
 sudo usermod -aG docker $username
-sudo docker pull markdunning/rnaseq-toolbox
-docker run -p 6080:80 markdunning/rnaseq-toolbox
+sudo docker pull sheffieldbioinformatics/unix-training
+docker run -v --rm -d -p 5901:5901 -p 6901:6901 --privileged sheffieldbioinformatics/unix-training
 ```
 
 - Default security group

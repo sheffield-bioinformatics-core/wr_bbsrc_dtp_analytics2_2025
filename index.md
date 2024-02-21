@@ -14,7 +14,8 @@ editor_options:
 
 ## Course Content
 
-This course offers an introduction to working with Linux. We will describe the Linux environment so that participants can start to utilize command-line tools and feel comfortable using a text-based way of interacting with a computer. We give example of processing data arising from Next-Generation Sequencing experiments, in particular an RNA-seq experiment.
+
+This course offers an introduction to working with Linux. We will describe the Linux environment so that participants can start to utilize command-line tools and feel comfortable using a text-based way of interacting with a computer. We will also introduce the "Git" version control system, which is a very powerful tool to help us secure our code from data loss. We’ll cover the terminology, how you can use it for your own projects and then how you can use it to make collaboration on a project easy.
 
 ## Pre-requisites
 
@@ -29,16 +30,16 @@ After this course you should be able to:
 - Move and copy files and directories within the Linux system
 - Work with text files
 - Run programs from the command-line
-- Run quality assessment tools on data derived from High-throughput sequencing experiments
 - Write short scripts to document an analysis
+- Use version control (git) to track and document changes to a file
 
 ## Schedule (Provisional)
 
-- 10:15 - 10:45 [Introduction and Course Setup](part0.nb.html)
+- 10:15 - 10:45 [Introduction and Course Setup]()
 - 10:45 - 12:00 [Introduction to the command line](https://datacarpentry.org/shell-genomics/01-introduction/)
 - 12:45 - 13:45 Introduction to command line (continued)
 - 13:45 - 14:30 [Obtaining Sequencing data and quality assessment]()
-- 15:15 - end Workflows and pipelines
+- 15:15 - end [Introduction to Version Control, and git]()
 
 ## Unix "cheatsheet"
 
@@ -48,4 +49,4 @@ After this course you should be able to:
 
 Please use this short form to give us feedback on the workshop. This will be used to inform the planning of future White Rose DTP training
 
-- [Feedback form](https://docs.google.com/forms/d/e/1FAIpQLSf0BNZ37hzSM3Em8rHfXfgkAF05E_299CeJv9eIKb5iYiFUzw/viewform)
+- [Feedback form]()
