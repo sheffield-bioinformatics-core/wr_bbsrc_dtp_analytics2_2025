@@ -1,0 +1,8 @@
+sample,fastq_1,fastq_2,strandedness
+ERR732901,fastq/ERR732901_sub.fastq.gz,,unstranded
+ERR732902,fastq/ERR732902_sub.fastq.gz,,unstranded
+ERR732903,fastq/ERR732903_sub.fastq.gz,,unstranded
+ERR732904,fastq/ERR732904_sub.fastq.gz,,unstranded
+ERR732905,fastq/ERR732905_sub.fastq.gz,,unstranded
+ERR732906,fastq/ERR732906_sub.fastq.gz,,unstranded
+ERR732907,fastq/ERR732907_sub.fastq.gz,,unstranded
