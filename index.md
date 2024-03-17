@@ -37,9 +37,20 @@ After this course you should be able to:
 
 - 10:15 - 10:45 [Introduction and Course Setup](part0.nb.html)
 - 10:45 - 12:00 [Introduction to the command line](https://datacarpentry.org/shell-genomics/01-introduction)
+  + [Navigating Files and Directories](https://datacarpentry.org/shell-genomics/02-the-filesystem.html)
+  + [Working with Files and Directories](https://datacarpentry.org/shell-genomics/03-working-with-files.html)
 - 13:00 - 14:00 Introduction to command line (continued)
-- 14:00 - 14:45 [Obtaining Sequencing data and quality assessment]()
+  + [Redirection](https://datacarpentry.org/shell-genomics/04-redirection.html)
+  + [Writing Scripts and Working with Data](https://datacarpentry.org/shell-genomics/05-writing-scripts.html)
+- 14:00 - 14:45 [Obtaining Sequencing data and quality assessment](part02.nb.html)
 - 15:15 - end [Introduction to Version Control, and git - Presented by The Data Science Hub, University of York](https://github.com/alastair-droop/northernbug10-git-workshop)
+
+
+## Optional Materials
+
+The previous version of this workshop all had a section on using Bioinformatics workflows and pipelines; with a particular example of RNA-seq.
+
++ [Intro to Workflows, Pipelines and Workflow Managers](part3.nb.html)
 
 
 ## Unix "cheatsheet"
