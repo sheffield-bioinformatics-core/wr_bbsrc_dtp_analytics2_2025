@@ -52,9 +52,9 @@ HOME=/home/dcuser
 
 ![](images/set_home.png)
 
-We will start with a general introduction to the command-line, before looking at specific examples in Bioinformatics 
+We will start with a general introduction to the command-line, before looking at specific examples in Bioinformatics. These materials have been prepared and shared by The Carpentries organisation
 
-<a href="https://datacarpentry.org/shell-genomics/01-introduction/" style="font-size: 50px; text-decoration: none">Click Here for next part</a>
+<a href="https://datacarpentry.org/shell-genomics/01-introduction" style="font-size: 50px; text-decoration: none">Click Here for next part</a>
 
 
 ## Running the environment on your own machine after the workshop

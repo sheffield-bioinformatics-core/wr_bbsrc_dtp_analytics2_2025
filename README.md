@@ -25,8 +25,8 @@ After this course you should be able to:
 
 - 10:15 - 10:45 [Introduction and Course Setup]()
 - 10:45 - 12:00 [Introduction to the command line](https://datacarpentry.org/shell-genomics/01-introduction/)
-- 12:45 - 13:45 Introduction to command line (continued)
-- 13:45 - 14:30 [Obtaining Sequencing data and quality assessment]()
+- 13:00 - 14:00 Introduction to command line (continued)
+- 14:00 - 14:45 [Obtaining Sequencing data and quality assessment]()
 - 15:15 - end [Introduction to Version Control, and git]()
 
 ## Amazon details (for setup)
