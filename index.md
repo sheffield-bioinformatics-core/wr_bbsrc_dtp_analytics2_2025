@@ -42,7 +42,7 @@ After this course you should be able to:
 - 13:00 - 14:00 Introduction to command line (continued)
   + [Redirection](https://datacarpentry.org/shell-genomics/04-redirection.html)
   + [Writing Scripts and Working with Data](https://datacarpentry.org/shell-genomics/05-writing-scripts.html)
-- 14:00 - 14:45 [Obtaining Sequencing data and quality assessment](part02.nb.html)
+- 14:00 - 14:45 [Obtaining Sequencing data and quality assessment](part2.nb.html)
 - 15:15 - end [Introduction to Version Control, and git - Presented by The Data Science Hub, University of York](https://github.com/alastair-droop/northernbug10-git-workshop)
 
 
