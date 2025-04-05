@@ -45,9 +45,11 @@ Below is an outline schedule, the exact timings may change depending on particul
 - 11:30 - 12:15
     + [Working wih files and directories](https://datacarpentry.github.io/shell-genomics/03-working-with-files.html)
     + [Redirection](https://datacarpentry.github.io/shell-genomics/04-redirection.html)
-    + [Writing scripts and working with data](https://datacarpentry.github.io/shell-genomics/05-writing-scripts.html)
+    
 - 12:15 - 13:00 LUNCH
-- 13:00 - 14:30 [Obtaining Sequencing data and quality assessment](https://sbc.shef.ac.uk/wr_bbsrc_dtp_analytics2_2025/part2.nb.html))
+- 13:00 - 14:30 
+  + [Writing scripts and working with data](https://datacarpentry.github.io/shell-genomics/05-writing-scripts.html)
+  + [Obtaining Sequencing data and quality assessment](https://sbc.shef.ac.uk/wr_bbsrc_dtp_analytics2_2025/part2.nb.html)
 
 - 
 ## Optional Materials
