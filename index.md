@@ -35,6 +35,8 @@ After this course you should be able to:
 
 ## Schedule (Provisional)
 
+Below is an outline schedule, the exact timings may change depending on particular topics and questions of interest that may arise. There is more material than will be covered on the day so please feel free to look through in your own time. 
+
 - 09:30 - 10:00 [Introduction and Course Setup](https://sbc.shef.ac.uk/wr_bbsrc_dtp_analytics2_2025/part0.nb.html)
 - 10:00 - 11:00
     + [Introduction to the command line](https://datacarpentry.org/shell-genomics/01-introduction/)
