@@ -23,11 +23,17 @@ After this course you should be able to:
 
 ## Schedule (Provisional)
 
-- 10:15 - 10:45 [Introduction and Course Setup]()
-- 10:45 - 12:00 [Introduction to the command line](https://datacarpentry.org/shell-genomics/01-introduction/)
-- 13:00 - 14:00 Introduction to command line (continued)
-- 14:00 - 14:45 [Obtaining Sequencing data and quality assessment]()
-- 15:15 - end [Introduction to Version Control, and git]()
+- 09:30 - 10:00 [Introduction and Course Setup](https://sbc.shef.ac.uk/wr_bbsrc_dtp_analytics2_2025/part0.nb.html)
+- 10:00 - 11:00
+    + [Introduction to the command line](https://datacarpentry.org/shell-genomics/01-introduction/)
+    + [Navigating files and directories](https://datacarpentry.github.io/shell-genomics/02-the-filesystem.html)
+- 11:00 - 11:30 BREAK
+- 11:30 - 12:15
+    + [Working wih files and directories](https://datacarpentry.github.io/shell-genomics/03-working-with-files.html)
+    + [Redirection](https://datacarpentry.github.io/shell-genomics/04-redirection.html)
+    + [Writing scripts and working with data](https://datacarpentry.github.io/shell-genomics/05-writing-scripts.html)
+- 12:15 - 13:00 LUNCH
+- 13:00 - 14:30 [Obtaining Sequencing data and quality assessment]()
 
 ## Amazon details (for setup)
 
